@@ -28,4 +28,4 @@
 
 ### Below Stats are not worth showing but meh
 
-![github stats](https://github-readme-stats.vercel.app/api?username=mohanen)]
+![github stats](https://github-readme-stats.vercel.app/api?username=mohanen)
