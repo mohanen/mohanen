@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**mohanen/mohanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently making computers 🖥️ see 👀 the world 🌍.
+- 🌱 I’m currently learning Neural Networks 🧠
+- 💬 Ask me about Computer Vision 🤓
+- 📫 How to reach me: Here or [LinkedIn](https://www.linkedin.com/in/mohanen)
+- ⚡ Fun fact: `Facts are not always Fun` 
+- ✍️ My Open Source Journey is on Pause
 
-Here are some ideas to get you started:
+> [I got a site too](https://mohanen.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Not worth showing but meh
+> ![github stats](https://github-readme-stats.vercel.app/api?username=mohanen)]
