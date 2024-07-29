@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mohanen_" target="blank"><img src="https://img.shields.io/twitter/follow/mohanen_?logo=twitter&style=for-the-badge" alt="mohanen_" /></a> </p>
 
-- 🔭 I’m currently working on **-**
-
-- 👯 I’m looking to collaborate on **-**
-
-- 📫 How to reach me **bmohanen@gmail.com**
-
-- 📄 Know about my experiences [mohanen.github.io](mohanen.github.io)
-
-- ⚡ Fun fact **“The world doesn't need a hero, it needs a professional.” ― CD Projekt Red**
+- 🔭 I’m currently working on Giving Cars Perception Abilities
+- 👯 I’m looking to collaborate on exciting AI projects
+- 📫 How to reach me: bmohanen@gmail.com
+- 📄 Learn about my experiences: [mohanen.github.io](mohanen.github.io)
+- ⚡ Fun fact: “The world doesn't need a hero, it needs a professional.”
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
